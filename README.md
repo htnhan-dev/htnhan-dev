@@ -32,7 +32,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Angular-282C34?logo=mysql&logoColor=DD0031" alt="angular logo" title="angular" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="angular logo" title="angular" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
@@ -63,23 +63,20 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://www.facebook.com/Kai3110.Kai" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nhanhuynh-facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.youtube.com/channel/UCGepTGAfNX83rRKp-r-iJ1w" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nhanhuynh-youtube" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.linkedin.com/in/nhanhuynh" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nhanhuynh-linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://instagram.com/kaitina3116" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nhanhuynh-instagram" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:nhanhuynh495@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nhanhuynh-email" />
   </a>
 </div>
 
