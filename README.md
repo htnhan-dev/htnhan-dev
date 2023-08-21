@@ -50,10 +50,10 @@
 <br>
 <div align=center>
   <a href="#" title="htnhan-dev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htnhan-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://kai-readme-stats.vercel.app/api/top-langs/?layout=compact&icon_color=61dafb&username=htnhan-dev&langs_count=8&hide=c%23%2Cpowershell%2CMathematica%2CRuby%2CObjective-C%2CObjective-C%2B%2B%2CCuda&text_color=ffffff&hide_border=true&title_color=61dafb&bg_color=20232a&border_color=61dafb" />
   </a>
   <a href="#" title="htnhan-dev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=htnhan-dev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://kai-readme-stats.vercel.app/api?username=htnhan-dev&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -87,4 +87,3 @@
 <a href="#" target="_blank">
   <img src="svg/nhanhuynh-quotes.svg" width="846" height="150" alt="Portfolio Huynh Thien Nhan" />
 </a>
-
