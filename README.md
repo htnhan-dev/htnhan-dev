@@ -49,12 +49,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="htnhan-dev">
-    <img width="315" align="center" src="https://kai-readme-stats.vercel.app/api/top-langs/?layout=compact&icon_color=61dafb&username=htnhan-dev&langs_count=8&hide=c%23%2Cpowershell%2CMathematica%2CRuby%2CObjective-C%2CObjective-C%2B%2B%2CCuda&text_color=ffffff&hide_border=true&title_color=61dafb&bg_color=20232a&border_color=61dafb" />
-  </a>
-  <a href="#" title="htnhan-dev">
-    <img align="right" width="434" src="https://kai-readme-stats.vercel.app/api?username=htnhan-dev&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-  </a>
+   <img width=390 src="https://kai-readme-stats.vercel.app/?user=htnhan-dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://kai-readme-stats.vercel.app/api?username=htnhan-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+   <img width=325 align="center" src="https://kai-readme-stats.vercel.app/api/top-langs/?username=htnhan-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br>
