@@ -16,6 +16,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nest.js-282C34?logo=nestjs&logoColor=F03" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=red" alt="Redis logo" title="Redis" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=white" alt="Socket logo" title="Socket.io" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
