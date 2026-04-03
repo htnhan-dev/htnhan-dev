@@ -41,7 +41,7 @@ I am a **Software Engineer** dedicated to engineering high-performance systems a
 ### ✦ Activity & Insights
 
 <p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=htnhan-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16161E&title_color=7AA2F7&text_color=A9B1D6&icon_color=7AA2F7&hide_rank=true" width="48%" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=htnhan-dev&show_icons=true&theme=radical)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=htnhan-dev&theme=tokyonight&hide_border=true&background=16161E&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" width="48%" alt="Streak Stats" />
 </p>
 
